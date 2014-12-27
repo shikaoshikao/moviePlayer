@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D41EA1641A4F318F00938529 /* makky.mov in Resources */ = {isa = PBXBuildFile; fileRef = D41EA1631A4F318F00938529 /* makky.mov */; };
 		D4AED1D01A14FDCE00310FFB /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D4AED1CF1A14FDCE00310FFB /* Foundation.framework */; };
 		D4AED1D21A14FDCE00310FFB /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D4AED1D11A14FDCE00310FFB /* CoreGraphics.framework */; };
 		D4AED1D41A14FDCE00310FFB /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D4AED1D31A14FDCE00310FFB /* UIKit.framework */; };
 		D4AED1DA1A14FDCE00310FFB /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = D4AED1D81A14FDCE00310FFB /* InfoPlist.strings */; };
 		D4AED1DC1A14FDCE00310FFB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D4AED1DB1A14FDCE00310FFB /* main.m */; };
 		D4AED1E01A14FDCE00310FFB /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D4AED1DF1A14FDCE00310FFB /* AppDelegate.m */; };
-		D4AED1E31A14FDCE00310FFB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D4AED1E11A14FDCE00310FFB /* Main.storyboard */; };
 		D4AED1E61A14FDCE00310FFB /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D4AED1E51A14FDCE00310FFB /* ViewController.m */; };
 		D4AED1E81A14FDCE00310FFB /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D4AED1E71A14FDCE00310FFB /* Images.xcassets */; };
 		D4AED1EF1A14FDCE00310FFB /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D4AED1EE1A14FDCE00310FFB /* XCTest.framework */; };
@@ -21,6 +21,9 @@
 		D4AED1F11A14FDCE00310FFB /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D4AED1D31A14FDCE00310FFB /* UIKit.framework */; };
 		D4AED1F91A14FDCE00310FFB /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = D4AED1F71A14FDCE00310FFB /* InfoPlist.strings */; };
 		D4AED1FB1A14FDCE00310FFB /* forOnchanTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D4AED1FA1A14FDCE00310FFB /* forOnchanTests.m */; };
+		D4AED2051A14FDE800310FFB /* MediaPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D4AED2041A14FDE800310FFB /* MediaPlayer.framework */; };
+		D4DD32E41A4882CD0039B4D8 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = D4DD32E31A4882CD0039B4D8 /* icon.png */; };
+		D4E7D7231A4CEA830078D01C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D4E7D7221A4CEA830078D01C /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D41EA1631A4F318F00938529 /* makky.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = makky.mov; sourceTree = "<group>"; };
 		D4AED1CC1A14FDCE00310FFB /* forOnchan.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = forOnchan.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D4AED1CF1A14FDCE00310FFB /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		D4AED1D11A14FDCE00310FFB /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -44,7 +48,6 @@
 		D4AED1DD1A14FDCE00310FFB /* forOnchan-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "forOnchan-Prefix.pch"; sourceTree = "<group>"; };
 		D4AED1DE1A14FDCE00310FFB /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		D4AED1DF1A14FDCE00310FFB /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		D4AED1E21A14FDCE00310FFB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D4AED1E41A14FDCE00310FFB /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		D4AED1E51A14FDCE00310FFB /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		D4AED1E71A14FDCE00310FFB /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
@@ -53,6 +56,9 @@
 		D4AED1F61A14FDCE00310FFB /* forOnchanTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "forOnchanTests-Info.plist"; sourceTree = "<group>"; };
 		D4AED1F81A14FDCE00310FFB /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		D4AED1FA1A14FDCE00310FFB /* forOnchanTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = forOnchanTests.m; sourceTree = "<group>"; };
+		D4AED2041A14FDE800310FFB /* MediaPlayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MediaPlayer.framework; path = System/Library/Frameworks/MediaPlayer.framework; sourceTree = SDKROOT; };
+		D4DD32E31A4882CD0039B4D8 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		D4E7D7221A4CEA830078D01C /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +66,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D4AED2051A14FDE800310FFB /* MediaPlayer.framework in Frameworks */,
 				D4AED1D21A14FDCE00310FFB /* CoreGraphics.framework in Frameworks */,
 				D4AED1D41A14FDCE00310FFB /* UIKit.framework in Frameworks */,
 				D4AED1D01A14FDCE00310FFB /* Foundation.framework in Frameworks */,
@@ -101,6 +108,7 @@
 		D4AED1CE1A14FDCE00310FFB /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				D4AED2041A14FDE800310FFB /* MediaPlayer.framework */,
 				D4AED1CF1A14FDCE00310FFB /* Foundation.framework */,
 				D4AED1D11A14FDCE00310FFB /* CoreGraphics.framework */,
 				D4AED1D31A14FDCE00310FFB /* UIKit.framework */,
@@ -112,9 +120,11 @@
 		D4AED1D51A14FDCE00310FFB /* forOnchan */ = {
 			isa = PBXGroup;
 			children = (
+				D4DD32E31A4882CD0039B4D8 /* icon.png */,
 				D4AED1DE1A14FDCE00310FFB /* AppDelegate.h */,
 				D4AED1DF1A14FDCE00310FFB /* AppDelegate.m */,
-				D4AED1E11A14FDCE00310FFB /* Main.storyboard */,
+				D41EA1631A4F318F00938529 /* makky.mov */,
+				D4E7D7221A4CEA830078D01C /* Main.storyboard */,
 				D4AED1E41A14FDCE00310FFB /* ViewController.h */,
 				D4AED1E51A14FDCE00310FFB /* ViewController.m */,
 				D4AED1E71A14FDCE00310FFB /* Images.xcassets */,
@@ -199,6 +209,9 @@
 				LastUpgradeCheck = 0510;
 				ORGANIZATIONNAME = "Yoshiki Kawakita";
 				TargetAttributes = {
+					D4AED1CB1A14FDCE00310FFB = {
+						DevelopmentTeam = PS5XKJ722W;
+					};
 					D4AED1EC1A14FDCE00310FFB = {
 						TestTargetID = D4AED1CB1A14FDCE00310FFB;
 					};
@@ -228,9 +241,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D4E7D7231A4CEA830078D01C /* Main.storyboard in Resources */,
+				D4DD32E41A4882CD0039B4D8 /* icon.png in Resources */,
 				D4AED1E81A14FDCE00310FFB /* Images.xcassets in Resources */,
+				D41EA1641A4F318F00938529 /* makky.mov in Resources */,
 				D4AED1DA1A14FDCE00310FFB /* InfoPlist.strings in Resources */,
-				D4AED1E31A14FDCE00310FFB /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -280,14 +295,6 @@
 				D4AED1D91A14FDCE00310FFB /* en */,
 			);
 			name = InfoPlist.strings;
-			sourceTree = "<group>";
-		};
-		D4AED1E11A14FDCE00310FFB /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				D4AED1E21A14FDCE00310FFB /* Base */,
-			);
-			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
 		D4AED1F71A14FDCE00310FFB /* InfoPlist.strings */ = {
@@ -376,10 +383,15 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "forOnchan/forOnchan-Prefix.pch";
 				INFOPLIST_FILE = "forOnchan/forOnchan-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -389,10 +401,15 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "forOnchan/forOnchan-Prefix.pch";
 				INFOPLIST_FILE = "forOnchan/forOnchan-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -456,6 +473,7 @@
 				D4AED2001A14FDCE00310FFB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D4AED2011A14FDCE00310FFB /* Build configuration list for PBXNativeTarget "forOnchanTests" */ = {
 			isa = XCConfigurationList;
@@ -464,6 +482,7 @@
 				D4AED2031A14FDCE00310FFB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
