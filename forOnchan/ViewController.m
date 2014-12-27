@@ -20,8 +20,6 @@
 	// Do any additional setup after loading the view, typically from a nib.
     
     [button setBackgroundImage:[UIImage imageNamed:@"icon.png"] forState:UIControlStateNormal];
-    
-    
       CGRect rect1 = [[UIScreen mainScreen] bounds];
       button.frame = CGRectMake(0, 0, 100, 100);
       button.center = CGPointMake(rect1.size.width/2, rect1.size.height/2);
